@@ -12,7 +12,7 @@ A sleek, interactive command-line tool built in Python to geolocate IP addresses
 ## How to get
 1. clone and install requirments
    ```bash
-   git clone https://github.com
+   git clone https://github.com/lexington-dave/ip-geo
    cd ip-geo
    pip install rich requests
 2. RUN
