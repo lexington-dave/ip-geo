@@ -21,7 +21,7 @@ Before running the script, ensure you have the following system tools installed:
 1. clone and install requirments
    ```bash
    git clone https://github.com
-   cd ipGEO
+   cd ip-geo
    pip install rich requests
 ## RUN
 python ipGEO.py
