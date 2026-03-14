@@ -17,5 +17,4 @@ A sleek, interactive command-line tool built in Python to geolocate IP addresses
 2. RUN
    ```bash
    python ipGEO.py -t <target ip>
-
-
+[Watch the video](https://github.com/lexington-dave/ip-geo/releases/download/c/Recording.2026-03-14.093552.mp4)
