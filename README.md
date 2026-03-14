@@ -10,11 +10,9 @@ A sleek, interactive command-line tool built in Python to geolocate IP addresses
 
 
 ## How to get
-1. clone and install requirments
+1. clone into ip-geo
    ```bash
    git clone https://github.com/lexington-dave/ip-geo
-   cd ip-geo
-   pip install rich requests
 2. RUN
    ```bash
    python ipGEO.py -t <target ip>
