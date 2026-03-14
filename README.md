@@ -18,8 +18,11 @@ Before running the script, ensure you have the following system tools installed:
    # Install via Cargo (Rust)
    cargo install globe-cli
 ## How to get
+1. clone and install requirments
    ```bash
    git clone https://github.com
    cd ipGEO
    pip install rich requests
-## run
+## RUN
+python ipGEO.py
+
