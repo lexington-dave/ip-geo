@@ -23,6 +23,8 @@ Before running the script, ensure you have the following system tools installed:
    git clone https://github.com
    cd ip-geo
    pip install rich requests
-## RUN
-python ipGEO.py
+2. RUN
+   ```bash
+   python ipGEO.py -t <target ip>
+
 
