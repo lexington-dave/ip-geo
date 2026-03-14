@@ -26,7 +26,7 @@ try:
     data = json.loads(result.stdout)
 except json.JSONDecodeError:
    c.print("[bold red]Error: Could not retrieve data. Check your connection or IP address.[/bold red]")
-    exit()
+   exit()
 
 # Build the table using the 'data' dictionary
 table = Table(title=f"GeoIP Report: {data.get('ip')}", show_header=True, header_style="bold magenta")
