@@ -1,4 +1,4 @@
-  GNU nano 8.6                                            ipGEO.py
+  #GNU nano 8.6                                            ipGEO.py
 import argparse
 import subprocess
 import json
