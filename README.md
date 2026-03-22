@@ -8,7 +8,6 @@ A sleek, interactive command-line tool built in Python to geolocate IP addresses
 - **Interactive 3D Globe**: Launches an interactive ASCII Earth pinned at the target coordinates.
 - **Orbital Animation**: A "hacker-style" loading sequence before displaying data.
 
-
 ## How to get
 1. clone into ip-geo
    ```bash
